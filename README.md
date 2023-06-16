@@ -33,9 +33,9 @@ For running it on local machine users can download the zip file and see the requ
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Below are some of the screenshots of our website.
 
-![JAL Homepage](https://github.com/Healthy-Sip/JAL/blob/main/Images/Homepage.jpeg)
+![Homepage](https://github.com/Healthy-Sip/JAL/assets/72157687/e75e6337-d416-45b2-8854-e5eb6961536d)
 
-![Model Webpage](https://github.com/Healthy-Sip/JAL/blob/main/Images/Model.jpeg)
+![Model](https://github.com/Healthy-Sip/JAL/assets/72157687/9b42d236-5c0b-4800-98c4-6ab02259d993)
 
 ## Credits 
 
